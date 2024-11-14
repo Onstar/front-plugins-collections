@@ -1,0 +1,108 @@
+# SVN
+.svn/
+/lib
+/.history
+.history
+
+
+# Git
+# /.gitignore
+
+# Project front end
+/build/
+/dist/
+/node_modules/
+node_modules.zip
+node_modules.rar
+# /package-lock.json
+
+# Project rear-end
+/target/
+/bin/
+
+# Local ENV
+local.properties
+.env.local
+.env.*.local
+.recommenders
+
+# Log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+
+# Temporary
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Visual Studio
+*.suo
+*.sln
+*.sw?
+*.ntvs*
+*.njsproj
+
+# IDE
+.idea/
+.idea
+*.iml
+
+# Eclipse
+.settings/
+.metadata
+.classpath
+.project
+
+# Editor directories and files
+.loadpath
+.cache-main
+.scala_dependencies
+.worksheet
+.mvn
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# MAC Computer
+.DS_Store
+
+.history
+/package.json
+/package-lock.json
+
